@@ -36,7 +36,6 @@ public class RateActivity extends AppCompatActivity implements Runnable{
     EditText rmb;
     TextView show;
     Handler handler;
-    //6.4shishi
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -203,3 +202,4 @@ public class RateActivity extends AppCompatActivity implements Runnable{
         return out.toString();
     }
 }
+
