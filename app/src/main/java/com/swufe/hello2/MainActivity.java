@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn.setOnClickListener(this);
     }
 
-    
+
     public void onClick(View v) {
         Log.i("click","onClick.....");
         int c = Integer.parseInt(inp.getText().toString());

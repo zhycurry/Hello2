@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Hello2</string>
-    <string name="app_name">Hello</string>
     <string name="button">shuru</string>
     <string name="temp_1">input the temperture</string>
     <string name="out">shuchu</string>
@@ -20,4 +19,15 @@
     <string name="research_lable">research</string>
     <string name="iuput_lable">input</string>
     <string name="hint_input">input the key words</string>
+    <string name="hello">Hello Kitty</string>
+    <string name="btn">Button</string>
+    <string name="btn_reset">Reset</string>
+    <string name="TeamA">TeamA</string>
+    <string name="show">0</string>
+    <string name="btn_dollar">Dollar</string>
+    <string name="btn_euro">Euro</string>
+    <string name="btn_won">Won</string>
+    <string name="btn_config">config</string>
+    <string name="btn_save">save</string>
+    <string name="menu_setting">Setting</string>
 </resources>
